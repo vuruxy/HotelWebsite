@@ -1,0 +1,149 @@
+/* static/css/base.css */
+body h3 {
+	color: orange;
+	font-family: 'Lobster';
+	text-align: center;
+	margin-top: 100px;
+}
+
+body h4 {
+  color: black;
+  font-family: 'Lobster';
+  text-align: center;
+  margin-top: 30px;
+}
+
+
+body {
+    padding-left: 15px;
+}
+
+strong {
+  margin-top: 10px;
+}
+
+#signup {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 12px;
+  width: 50%;
+  margin-top: 45px;
+  margin-left: 250px;
+  font-weight: bolder;
+}
+
+#signin {
+  background-color: #f44336; /* Red */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 12px;
+  width: 50%;
+  margin-top: 45px;
+  margin-left: 250px;
+  font-weight: bolder;
+}
+
+#login {
+  background-color: #f44336; /* Red */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 12px;
+  width: 50%;
+  margin-top: 45px;
+  margin-left: 250px;
+  font-weight: bolder;
+}
+
+#signout {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 12px;
+  width: 20%;
+  margin-top: 45px;
+  margin-left: 400px;
+  font-weight: bolder;
+}
+
+#bookroom {
+  background-color: #00FFFF; /* Red */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 12px;
+  width: 50%;
+  margin-top: 45px;
+  margin-left: 250px;
+  font-weight: bolder;
+}
+
+#alert {
+  background-color: #f44336; /* Red */
+  border: none;
+  color: white;
+  border-radius: 12px;
+}
+
+
+div {
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 30px;
+  margin-left: 250px;
+  margin-right: 250px;
+}
+
+input[type=text] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+input[type=password] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+input[type=email] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
